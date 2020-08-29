@@ -1,0 +1,44 @@
+﻿@using System.Data
+@model System.Data.DataTable
+
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<table>
+    <tbody>
+    <tr>
+        <td>Tarih</td>
+        <td>Kod</td>
+        <td>Adı</td>
+        <td>Alış</td>
+        <td>Satış</td>
+    </tr>
+
+@foreach (DataRow dr in Model.Rows)
+{
+    <tr>
+        <td>@Convert.ToDateTime(dr["Tarih"]).ToString("dd.MM.yyyy")</td>
+        <td>@dr["Kod"]</td>
+        <td>@dr["Adi"]</td>
+        <td>@dr["Alis"]</td>
+        <td>@dr["Satis"]</td>
+    </tr>
+}
+
+    </tbody>
+    
+</table>
+
+</body>
+</html>

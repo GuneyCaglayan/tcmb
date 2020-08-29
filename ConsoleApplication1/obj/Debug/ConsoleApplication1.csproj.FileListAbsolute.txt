@@ -1,0 +1,18 @@
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sadi\Documents\Visual Studio 2015\Projects\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guney\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Guney\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Guney\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Guney\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Guney\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Guney\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guney\Desktop\TCMB\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
